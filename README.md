@@ -1,6 +1,8 @@
 # Project_Livros
 Projeto com NODE.JS
-<br>
+<br>PT<br>
+Projeto onde você armazena seus livros e número de páginas em um banco de dados.<br>
+EN<br>
 Project where you store your books and number of pages in a database.
 <br><br>
 
